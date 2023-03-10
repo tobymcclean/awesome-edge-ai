@@ -1,2 +1,2 @@
-# awesome-edge-ai
-Collection of references relevant to Edge AI
+# Model Compilers & Optimizers
+* [XLA](https://github.com/openxla/xla)
