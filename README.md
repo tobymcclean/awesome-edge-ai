@@ -12,6 +12,7 @@
 | Zoo | Description |
 | --- | ---|
 | [Nvidia Pretrained AI Models](https://developer.nvidia.com/ai-models) | A collection of 600+ highly accurate models built by NVIDIA researchers and engineers using representative public and proprietary datasets for domain-specific tasks. |
+| [Torch Serve Model Zoo](https://pytorch.org/serve/model_zoo.html) | Pre-trained and pre-packaged, ready to be served for inference with TorchServe |
 | [OpenVNO Model Zoo](https://docs.openvino.ai/latest/model_zoo.html) | Browse through over 200 neural network models, both public and from Intel, and pick the right one for your solution. Types include object detection, classification, image segmentation, handwriting recognition, text to speech, pose estimation, and others. |
 
 
