@@ -11,6 +11,7 @@
 #### Model Zoo
 | Zoo | Description |
 | --- | ---|
+| [Hailo Model Zoo](https://hailo.ai/products/hailo-software-suite/model-zoo/) | Provides deep learning models for various computer vision tasks. The pre-trained models can be used to create fast prototypes on Hailo devices |
 | [Nvidia Pretrained AI Models](https://developer.nvidia.com/ai-models) | A collection of 600+ highly accurate models built by NVIDIA researchers and engineers using representative public and proprietary datasets for domain-specific tasks. |
 | [OpenVINO Model Zoo](https://docs.openvino.ai/latest/model_zoo.html) | Browse through over 200 neural network models, both public and from Intel, and pick the right one for your solution. Types include object detection, classification, image segmentation, handwriting recognition, text to speech, pose estimation, and others. |
 | [Pytorch Hub](https://pytorch.org/hub/) | Discover and publish models to a pre-trained model repository designed for research exploration. |
