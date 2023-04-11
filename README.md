@@ -28,3 +28,8 @@
 | [DeGirium](https://www.degirum.ai) | DeGirum ORCA™ is flexible, efficient, and affordable AI accelerator IC. ORCA provides application developers the ability to create rich, sophisticated, and highly functional products at the power and price suitable for the edge. ORCA™ is powered by a very efficient compute architecture, with support for pruned models.  |
 | [Hailo](https://hailo.ai) | Hailo-8™ edge AI processor, featuring up to 26 tera-operations per second (TOPS), significantly outperforms all other edge processors. Its area and power efficiency are far superior to other leading solutions by a considerable order of magnitude – at a size smaller than a penny even including the required memory. |
 | [Sapeon](https://www.sapeon.com) | SAPEON has an optimal architecture for low-latency, large-scale inference of deep neural networks. Our products are optimally designed to process artificial intelligence tasks faster, using less power by efficiently processing large amounts of data simultaneously. |
+
+#### Tools
+| Tool | Description |
+| --- | --- |
+| [UpTrain](https://github.com/uptrain-ai/uptrain) | An open-source, data-secure tool for ML practitioners to observe and refine their ML models by monitoring their performance, checking for (data) distribution shifts, and collecting edge cases to retrain them upon. |
