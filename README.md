@@ -5,6 +5,7 @@
 | [Apache TVM](https://github.com/apache/tvm) | _a compiler stack for deep learning systems. It is designed to close the gap between the productivity-focused deep learning frameworks, and the performance- and efficiency-focused hardware backends_ |
 | [OpenVINO™](https://docs.openvino.ai/latest/home.html) | _an open-source toolkit for optimizing and deploying deep learning models. It provides boosted deep learning performance for vision, audio, and language models from popular frameworks like TensorFlow, PyTorch, and more._ |
 | [Speedster](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) | _automatically applies the best set of SOTA optimization techniques to achieve the maximum inference speed-up (latency, throughput, model size) physically possible on your hardware (single machine)_ |
+| [Neural Magic SparseML] (https://github.com/neuralmagic/sparseml) | An open-source model optimization toolkit that enables you to create inference-optimized sparse models using pruning, quantization, and distillation algorithms |
 | [Nvidia TensorRT](https://developer.nvidia.com/tensorrt) | _SDK for high-performance deep learning inference, includes a deep learning inference optimizer and runtime that delivers low latency and high throughput for inference applications._ |
 | [XLA](https://github.com/openxla/xla) | _takes models from popular ML frameworks such as PyTorch, TensorFlow, and JAX, and optimizes them for high-performance execution across different hardware platforms including GPUs, CPUs, and ML accelerators_ |
 
