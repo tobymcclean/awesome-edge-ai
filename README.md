@@ -21,6 +21,12 @@
 | [Torch Vision Models](https://pytorch.org/vision/stable/models.html) | Contains definitions of models for addressing different tasks, including: image classification, pixelwise semantic segmentation, object detection, instance segmentation, person keypoint detection, video classification, and optical flow |
 
 
+#### Runtimes
+| Technology | Description |
+| --- | --- |
+| [WONNX](https://github.com/webonnx/wonnx) | A GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web. |
+
+
 #### Silicon & Chips
 
 | Technology | Description |
