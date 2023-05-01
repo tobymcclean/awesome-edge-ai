@@ -3,6 +3,7 @@
 | Tool | Description |
 | --- | --- |
 | [Apache TVM](https://github.com/apache/tvm) | _a compiler stack for deep learning systems. It is designed to close the gap between the productivity-focused deep learning frameworks, and the performance- and efficiency-focused hardware backends_ |
+| [Hidet](https://github.com/hidet-org/hidet) | _An open-source deep learning compiler, written in Python. It supports end-to-end compilation of DNN models from PyTorch and ONNX to efficient cuda kernels._ |
 | [OpenVINO™](https://docs.openvino.ai/latest/home.html) | _an open-source toolkit for optimizing and deploying deep learning models. It provides boosted deep learning performance for vision, audio, and language models from popular frameworks like TensorFlow, PyTorch, and more._ |
 | [Speedster](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) | _automatically applies the best set of SOTA optimization techniques to achieve the maximum inference speed-up (latency, throughput, model size) physically possible on your hardware (single machine)_ |
 | [Neural Magic SparseML](https://github.com/neuralmagic/sparseml) | An open-source model optimization toolkit that enables you to create inference-optimized sparse models using pruning, quantization, and distillation algorithms |
