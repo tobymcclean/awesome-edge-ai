@@ -35,3 +35,4 @@
 | Tool | Description |
 | --- | --- |
 | [UpTrain](https://github.com/uptrain-ai/uptrain) | An open-source, data-secure tool for ML practitioners to observe and refine their ML models by monitoring their performance, checking for (data) distribution shifts, and collecting edge cases to retrain them upon. |
+| [MLC LLM](https://github.com/mlc-ai/mlc-llm) | MLC LLM is a universal solution that allows any language models to be deployed natively on a diverse set of hardware backends and native applications, plus a productive framework for everyone to further optimize model performance for their own use cases. |
